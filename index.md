@@ -89,7 +89,6 @@ Take the starting equipment from your class and background (and anything you mig
 |    5th–10th    |   500 gp plus 1d10 x 25 gp,<br />normal starting equipment   |                1 uncommon                |
 |   11th-16th    | 5,000 gp plus 1d10 x 250 gp,<br />normal starting equipment  |        3 uncommon<br />and 1 rare        |
 |   17th-20th    | 20,000 gp plus 1d10 x 250 gp,<br />normal starting equipment | 3 uncommon, 2 rare,<br />and 1 very rare |
-|                |                                                              |                                          |
 
 If the table indicates you get 1 item of a given rarity, you may instead choose to take 2 consumable magic items of an equal rarity. If you get 2 items of a given rarity, you may take 3 consumables. If you get 3 items of a given rarity, you may either take 5 consumables OR you may take take 3 non-consumables and 1 consumable.
 
